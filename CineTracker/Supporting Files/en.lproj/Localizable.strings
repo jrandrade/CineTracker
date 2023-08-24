@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  CineTracker
+
+  Created by Jorge Andrade on 22/08/2023.
+  
+*/
+
+"appName" = "CineTracker";
+"home_title" = "Home";
+"nowPlaying_title" = "Now Playing";
+"popular_title" = "Popular";
+"topRated_title" = "Top Rated";
+"upcoming_title" = "Upcoming";
+"adultContentWarning_title" = "18+";
+"tryAgain_title" = "Try Again";
+"generic_error_title" = "Ups!";
+"generic_error_message" = "Something went wrong.\nPlease try again later.";
+"details_runtime_title" = "Runtime";
+"details_releaseDate_title" = "Release date";
+"details_budget_title" = "Budget";
+"details_revenue_title" = "Revenue";
+"details_movieTitle_title" = "Title";
+"details_showMore_title" = "Show more";
+"details_showLess_title" = "Show less";

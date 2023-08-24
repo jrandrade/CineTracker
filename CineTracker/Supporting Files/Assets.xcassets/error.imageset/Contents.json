@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "gryffindor1992_vector_art_cute_popcorn_box_man_cartoon_919d08de-555e-4809-aa1a-717c8334fcea - Mockup 1#6121773.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "gryffindor1992_vector_art_cute_popcorn_box_man_cartoon_919d08de-555e-4809-aa1a-717c8334fcea - Mockup 1#6121773@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "gryffindor1992_vector_art_cute_popcorn_box_man_cartoon_919d08de-555e-4809-aa1a-717c8334fcea - Mockup 1#6121773@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
